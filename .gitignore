@@ -1,0 +1,13 @@
+hospital
+hospital.log
+patients.txt
+:USERPROFILE.wslconfig
+
+*.o
+*.ko
+*.mod
+*.mod.c
+*.symvers
+modules.order
+
+driver/.tmp_versions/
